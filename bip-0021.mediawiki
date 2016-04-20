@@ -1,7 +1,7 @@
 <pre>
   BIP: 21
   Title: URI Scheme
-  Author: Nils Schneider <nils.schneider@gmail.com>
+  Author: Treesith Taechasriamornrat <kalingpling001@gmail.com>
           Matt Corallo <bip21@bluematt.me>
   Status: Final
   Type: Standards Track
